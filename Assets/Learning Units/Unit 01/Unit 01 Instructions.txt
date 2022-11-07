@@ -1,0 +1,8 @@
+Unit 01 Instructions
+
+The goal of this unit is to make it such that the 
+on-screen Toggle controls whether or not the
+cube rotates.
+
+You will need to add a single line to the RotateObject.cs script
+as well as make some changes to the scene.

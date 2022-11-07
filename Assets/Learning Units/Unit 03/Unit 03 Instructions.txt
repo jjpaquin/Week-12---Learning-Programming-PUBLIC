@@ -1,0 +1,13 @@
+Unit 03 Instructions
+
+The goal of this Unit is to have the velocity of the Red Cube 
+transfer to the Blue Cube when the Red Cube enters the trigger.
+ADDITIONALLY: when the Blue Cube reaches a certain velocity, 
+the Debug Console will say "True";
+
+No new nodes need to be created, but you need to hook some of them
+up properly. (Keep in mind this Unit has a SUB-GRAPH as well-- double
+click it to look at the code in there.)
+
+You also need to update something on the Inspector for the TriggerCube,
+or else it won't work.

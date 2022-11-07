@@ -1,0 +1,12 @@
+Unit 02 Instructions
+
+The goal of this unit is to make it such that when
+the Toggle is pressed, the on-screen text displays
+either one message or the other. 
+
+You will need to make the same changes to the scene
+you made in Unit 01 to get the Toggle to work.
+
+You also need to add a SINGLE WORD to the SetTextValue.cs
+script to make it work as intended, then you'll need
+to change something in the Scene to finish.

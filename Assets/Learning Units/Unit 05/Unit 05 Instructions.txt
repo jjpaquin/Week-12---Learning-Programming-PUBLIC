@@ -1,0 +1,9 @@
+Unit 05 Instructions
+
+The goal of this Unit is to build a working State Machine that 
+has the following features:
+
+1. When your mouse goes over an object, it spins and moves with increasing speed to the right
+2. When your mouse exits an object, it stops spinning and returns (slowly) to its original location
+
+

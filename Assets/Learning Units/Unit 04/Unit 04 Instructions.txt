@@ -1,0 +1,7 @@
+Unit 04 Instructions
+
+The goal of this Unit is to have the red cube rotate when our mouse 
+goes over top of it AND (importantly) stop when the mouse is no 
+longer over it. 
+
+You will need to add transitions to the State Graph on the Red Cube.
