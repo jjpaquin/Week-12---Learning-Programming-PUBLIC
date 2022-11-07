@@ -24,4 +24,9 @@ public class RotateObject : MonoBehaviour
         }
         
     }
+
+    public void SetRotation(bool isThisRotating)
+    {
+        isRotating = isThisRotating;
+    }
 }

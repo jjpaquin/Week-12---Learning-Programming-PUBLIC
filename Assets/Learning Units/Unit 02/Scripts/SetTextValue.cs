@@ -19,7 +19,7 @@ public class SetTextValue : MonoBehaviour
         
     }
 
-    void ChangeText(bool isRotating)
+    public void ChangeText(bool isRotating)
     {
         if (isRotating)
         {
